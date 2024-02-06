@@ -1,0 +1,26 @@
+El modelo osi se basa en 7 capaz
+
+1 aplicacion ( HTML, SMTP, FTP)
+2 Presentacion ( XML, JSON, XLS, TXT)
+3 Sesion (Manje las sesiones)
+4 Transporte ( ports)
+5 Red (IP) ROUTERS
+6 Enlace de datos ( MAC Addres, Mac spooting) SWITCCHES
+7. Fisica ( Medio, NIC) HUB 
+
+Existen tres tipos de traficos
+
+Unicast es una comunicacion de uno a uno 
+
+Broadcast es una comunicacion con varios dispositivos
+
+Multicast anuncia el dispositivo. 
+
+Mac table
+
+switch con protocolo IEEE 802.IX
+
+comando netstat
+
+Benchmark 
+ TC$NKRz2a,4Zk9@4[W8))%:qL^E*6*QA
