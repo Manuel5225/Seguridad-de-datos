@@ -1,0 +1,41 @@
+Protocolos del TCP/IP
+
+ccp es un protocolo de la capa de transporte que se usa para que la capa llegue completa
+
+udp solo envia la informacion 
+
+2 a la 16 que quiere dcir que solo llega hasta el puerto 65536
+
+http = puerto 80
+ssh = puerto 22
+ftp = 21
+smb = 445 
+https = 443
+mysql = 3306
+mssql = 1433
+tomcat = 8080
+
+nmap nos permite conocer de foorma remota de cuales son los puertos de una computadora remota
+
+instalar nmap 
+
+pentesting (offensive security) Blackbox, whitebox graybox intenal external 
+
+1 reconocimiento (footprinting)
+2. escaneo (nmap) lenguaje lua
+3 ganar acceso 
+4 preservar acceso
+5 cubrir huellas
+
+password manager
+keepass 
+
+shodan.io
+
+Demo OSINT 
+
+The hacker playbook 2
+
+ejecutar nmap (scanme.nmap.org)
+
+para explotar la vulnerbilidad se usa el lenguaje de LUA 
